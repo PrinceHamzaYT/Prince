@@ -85,7 +85,7 @@ def line4():
 def line3():
 	print(35*'+')
 def line2():
-	print(35*'*')
+	print(34*'*')
 def line1():
 	print(35*'_')
 def line():
