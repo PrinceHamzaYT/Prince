@@ -107,7 +107,7 @@ def logo():
 ║\033[1;97m[+] Author     : PrinceHamzaYT        ║
 ║\033[1;97m[+] FACEBOOK   : PrinceHamzaYT        ║          
 ║\033[1;97m[+] GITHUB     : PrinceHamzaYT        ║
-║\033[1;97m[+] VERSION    : 1.1                  ║
+║\033[1;97m[+] VERSION    : 1.2                  ║
 ╚══════════════════════════════════════╝
 ----------------------------------------''')
 	p(logo)
@@ -123,7 +123,7 @@ def iAmAndroidUa():
 	# YHN APNY ESE ANDROID KY UA LGANY HE MNE EXAMPLE KY LIYE IPHONE KY LGAY
 	ios_version = random.choice(["10_0_2","10_1_1","10_2","10_2_1","10_3_1","10_3_2","10_3_3"])
 	END = "[FBAN/FBIOS;FBAV/{str(random.randint(111,999))+'.0.0.'+str(random.randrange(1,30))+'.'+str(random.randint(111,999))};FBBV/{FBBV};FBDV/iPhone10,{random.choice(['1','5'])};FBMD/iPhone;FBSN/iOS;FBSV/{(ios_version).replace('_','.')};FBSS/2;FBCR/{random.choice(['Jazz','Zong'])};FBID/phone;FBLC/en_US;FBOP/5;FBRV/{random.choice(['106631002','0'])}]"
-	ua = random.choice(["Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.105 Mobile Safari/537.36","Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1","Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; WebView/2.0; rv:11.0; IEMobile/11.0; NOKIA; Lumia 525) like Gecko","Mozilla/5.0 (Linux; U; Tizen 2.0; en-us) AppleWebKit/537.1 (KHTML, like Gecko) Mobile TizenBrowser/2.0","Nokia5250/10.0.011 (SymbianOS/9.4; U; Series60/5.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Safari/525 3gpp-gba","Mozilla/5.0 (Android 6.0.1; Mobile; rv:43.0) Gecko/43.0 Firefox/43.0","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36","Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.49 Safari/537.36 OPR/48.0.2685.7","Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1)"])
+	ua = random.choice(["Mozilla/5.0 (X11; U; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5617.200 Safari/537.36","Mozilla/5.0 (Macintosh; Intel Mac OS X 11_11; rv:114.0) Gecko/20000101 Firefox/114.0","Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5671.223 Safari/537.36","Mozilla/5.0 (X11; Linux i686; en-GB) Gecko/20070214 Firefox/112.0","Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5628.203 Safari/537.36","Mozilla/5.0 (Macintosh; Intel Mac OS X 11_15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5646.198 Safari/537.36 Edg/113.0.1684.48","Mozilla/5.0 (Macintosh; Intel Mac OS X 11_4_4) AppleWebKit/615.12 (KHTML, like Gecko) Version/14.2.55 Safari/615.12","Mozilla/5.0 (Android 10; Mobile; rv:111.0esr) Gecko/111.0esr Firefox/111.0esr","Mozilla/5.0 (Linux; Android 10; SM-T875) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5623.207 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 9; X104-EEA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5649.226 Mobile Safari/537.36)"])
 	return ua
 
 	
